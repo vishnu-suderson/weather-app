@@ -63,7 +63,7 @@ const iconFile = iconMap[weatherType] || "Default.svg";
 
     setWeatherinfo({
       ...weatherinfo,
-      icon:'./src/assets/animated/' + iconFile,
+      icon:'./assets/animated/' + iconFile,
       main:data.weather[0].main,
       city:data.name,
       temperature:data.main.temp,
