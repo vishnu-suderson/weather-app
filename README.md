@@ -6,7 +6,7 @@ A sleek and responsive weather application built with **React** that fetches rea
 
 ## 🔗 Live Demo
 
-[Click here to view the live app](https://your-username.github.io/your-repo-name)
+[Click here to view the live app]([https://vishnu-suderson.github.io/weather-app/])
 
 ---
 
